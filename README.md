@@ -1,4 +1,25 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Adam Fravel===================================================================================================================================Developer. Partner. Father.---------------------------I am a full-stack software developer coming from the accounting/finance field ready to make a positive impact on the world through software development. Since my middle school years, I have loved tinkering on computers and am fascinated with what can be accomplished using the amazing software we have in our lives today. Knowing the tech field is a vast world that requires endless learning, I look forward to improving my craft with knowledge and experience for years to come. I am excited to contribute to a company who's mission I believe in, while also spending time on the side creating fun apps for my kids to enjoy.* 🌍  I'm based in Minnesota* ✉️  You can contact me at [adamfravel@gmail.com](mailto:adamfravel@gmail.com)* 🧠  I'm learning C# and JavaScript
+<h1 align="center">Hey 👋, I'm Adam</h1>
+<h2 align="center">Developer. Partner. Father.</h2>
+
+<br/>
+
+<p>I am a full-stack software developer coming from the accounting/finance field ready to make a positive impact on the world through software development. Since my middle school years, I have loved tinkering on computers and am fascinated with what can be accomplished using the amazing software we have in our lives today. Knowing the tech field is a vast world that requires endless learning, I look forward to improving my craft with knowledge and experience for years to come.</p>
+
+<p>I am excited to contribute to a company who's mission I believe in, while also spending time on the side creating fun apps for my kids to enjoy.</p>
+
+<br/>
+
+### About me:
+
+🔭 I’m currently working on a **Campground finder and review app**
+
+🌱 I’m currently improving **C#** and **JavaScript** skills and practicing **Data Structures/Algorithms**
+
+👨‍💻 My portfolio is [here](https://github.com/Adam-Portfolio)
+
+📫 Reach me at **adamfravel@gmail.com**
+
+:heart: My interests include **Family, Coding, Fitness, Sports, Camping, Tech Gadgets, Music**
 
 ### Skills
 
